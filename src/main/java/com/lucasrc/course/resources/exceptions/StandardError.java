@@ -1,4 +1,4 @@
-package com.lucasrc.course.services.exceptions;
+package com.lucasrc.course.resources.exceptions;
 
 import java.io.Serializable;
 import java.time.Instant;
